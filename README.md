@@ -6,11 +6,7 @@
 Let’s recreate that pyramid in C, albeit in text, using hashes (#) for bricks, a la the below. 
 Each hash is a bit taller than it is wide, so the pyramid itself is also be taller than it is wide.
 
-2. Hungry hedgehog.html
-
- A game made with Scratch. Converted to html.
-
-3. cash.c
+2. cash.c
 
  Greedy Algorithms.
  A program that first asks the user how much change is due and then prints out the minimum number of coins that can be used to make this change.
